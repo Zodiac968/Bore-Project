@@ -1,0 +1,15 @@
+{
+  "name": "miniopro1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "minio": "^8.0.3"
+  },
+  "type": "module"
+}
